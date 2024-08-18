@@ -1,4 +1,3 @@
-# Jaga-Pola-Hidupmu
 # My First Web Design Project
 
 This repository contains the code for my very first web design project, created using only HTML and CSS. I submitted this project to the 2022 FASTTEKNO Web Design Competition, marking the beginning of my journey into web development.
@@ -24,4 +23,4 @@ Feel free to explore the code and provide any feedback!
 
 ## Live Demo
 
-You can view the live version of the project [here]([https://link-ke-web.github.io](https://gianneangely.github.io/Jaga-Pola-Hidupmu/)).
+You can view the live version of the project [here](https://gianneangely.github.io/Jaga-Pola-Hidupmu/).
