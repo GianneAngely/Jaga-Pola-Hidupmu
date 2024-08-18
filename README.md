@@ -20,7 +20,7 @@ Feel free to explore the code and provide any feedback!
 
 ## Screenshot
 
-![Project Screenshot](Screenshot (1).png)
+![Project Screenshot](Screenshot.png)
 
 ## Live Demo
 
